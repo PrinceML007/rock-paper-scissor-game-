@@ -87,5 +87,5 @@ Submitted as part of academic project work.
 ## Author
 
 Prince Raj
-B.Tech Student
-Chandigarh Engineering College, Jhanjeri
+B.Tech aiml Student
+CGC UNIVERSITY
